@@ -1,0 +1,32 @@
+_repo: At-Large_4613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Benson, A. C. (Arthur Christopher)
+    - Carr, Christopher
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The scene -- Contentment -- Friendship -- Humour -- Travel -- Specialism
+  -- Our lack of great men -- Shyness -- Equality -- The dramatic sense -- Kelmscott
+  and William Morris -- A speech day -- Literary finish -- A midsummer day's dream
+  -- Symbols -- Optimism -- Joy -- The love of God -- Epilogue.
+title: At Large
+url: http://www.gutenberg.org/ebooks/4613
